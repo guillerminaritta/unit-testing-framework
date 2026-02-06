@@ -80,7 +80,7 @@ Select Run 'testng.xml'
 From command line
 mvn test
 
-## 📸 Evidence (Screenshots)
+📸 Evidence (Screenshots)
 
 Screenshots of the IDE execution are available in the `/screenshots` folder:
 - Run from `testng.xml`
@@ -104,4 +104,5 @@ Data-driven tests included
 Parallel execution configured via XML
 
 Tests executed successfully from the IDE
+
 
