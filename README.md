@@ -80,6 +80,15 @@ Select Run 'testng.xml'
 From command line
 mvn test
 
+## 📸 Evidence (Screenshots)
+
+Screenshots of the IDE execution are available in the `/screenshots` folder:
+- Run from `testng.xml`
+- Successful TestNG execution results (all tests passed)
+- Project structure showing one test class per library method
+- XML suite configuration (parallel execution and groups)
+- Different groups of tests (include or exclude)
+
 ✅ Conclusion
 
 This project fulfills all acceptance criteria:
@@ -95,3 +104,4 @@ Data-driven tests included
 Parallel execution configured via XML
 
 Tests executed successfully from the IDE
+
